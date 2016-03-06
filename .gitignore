@@ -24,3 +24,13 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# Other Life files
+*.2d0
+*.mat
+*.mtl
+*.obj
+*.dds
+*.fbx
+*.elm
+*.elm.gz
