@@ -1,0 +1,12 @@
+﻿{
+  "version": "2016.3.9.1",
+  "description": "Other Life Map Definitions",
+  "authors": [ "StarDark" ],
+  "tags": [ "" ],
+  "projectUrl": "www.other-life.com",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "net35": { }
+  }
+}
